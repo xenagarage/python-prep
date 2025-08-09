@@ -4,7 +4,7 @@ Curated questions with solutions as listed below.
 ## 📖 Topics
 
 - ⭐️ Phase 1: Fundamentals 
-  - Reverse String
+  - [ ] Reverse String
   - Palindrome Check
   - FizzBuzz
   - Find factorial
