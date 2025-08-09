@@ -4,8 +4,8 @@ Curated questions with solutions as listed below.
 ## 📖 Topics
 
 - ⭐️ Phase 1: Fundamentals 
-  - [x] [Reverse String] (examples/reverse_string.py)
-  - [x] [Palindrome Check] (examples/palindrome.py)
+  - [x] [Reverse String](examples/reverse_string.py)
+  - [x] [Palindrome Check](examples/palindrome.py)
   - [ ] FizzBuzz
   - [ ] Find factorial
   - [ ] Max/min in a list
